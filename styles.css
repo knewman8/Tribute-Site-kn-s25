@@ -1,0 +1,67 @@
+body{
+  background-image: url(https://snipboard.io/NnrqY9.jpg);
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+}
+p, figcaption{
+  font-weight: bold;
+}
+.history {
+  background-color: #F8FAD9;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+  border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+.image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+h1{
+color: black;
+  background-color: #F8FAD9;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+  border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+.quote {
+  color: black;
+  background-color: #F8FAD9;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+  border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+.links{
+color: white;
+  background-color: #B46C35;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+  border: 1px solid;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+.links a:hover {
+  background-color: red;
+}
+.links a:active {
+  background-color: midnightblue;
+}
+.links a:visited {
+  color: black;
+}
